@@ -1,0 +1,6 @@
+{
+  "name": "AetherTrade AI Terminal",
+  "description": "Institutional-grade AI-driven trading terminal with real-time analytics, automated risk guards, live market depth, and smart decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
